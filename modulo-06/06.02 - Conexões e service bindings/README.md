@@ -4,7 +4,7 @@
 
 > **Comece pelos slides: [Conexões e service bindings](./06.02_Conexoes_e_service_bindings.pptx)**
 >
-> **Referência oficial (Capire):** [cds.connect](https://cap.cloud.sap/docs/node.js/cds-connect) · [Service Bindings](https://cap.cloud.sap/docs/guides/integration/service-bindings)
+> **Referência oficial (Capire):** [cds.connect](https://cap.cloud.sap/docs/node.js/cds-connect) · [cds bind](https://cap.cloud.sap/docs/tools/cds-bind)
 
 Como o nome de um serviço vira uma conexão real: cds.connect, cds.requires e bindings em cada ambiente.
 
