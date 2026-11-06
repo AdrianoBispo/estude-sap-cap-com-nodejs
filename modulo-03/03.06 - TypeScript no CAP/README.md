@@ -24,11 +24,6 @@ Como ligar TypeScript no projeto, rodar, testar, compilar e gerar tipos a partir
 3. **Testando e compilando:** Testes rodam **sem pré-compilar**. O build gera o JavaScript que vai para a nuvem.
 4. **Tipos:** Há dois grupos de tipos: os da **API do CAP** e os gerados do **seu modelo**.
 
-## Material complementar
-
-- PDF: [TypeScript Guia Definitivo](./03.06_TypeScript_Guia_Definitivo.pdf)
-- Infográfico: [TypeScript Guia Definitivo](./03.06_TypeScript_Guia_Definitivo.png)
-
 ---
 
 [Voltar ao Módulo 03](../README.md) · Próxima aula: [04.01 CQL: a linguagem de consulta do CDS](../../modulo-04/04.01%20-%20CQL%20-%20a%20linguagem%20de%20consulta%20do%20CDS/README.md)

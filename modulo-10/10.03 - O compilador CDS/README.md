@@ -25,8 +25,6 @@ Como o compilador transforma CDS em CSN e em artefatos finais, e o que suas mens
 
 ## Material complementar
 
-- PDF: [Dominando Compilador de Modelos CAP](./10.03_Dominando_Compilador_de_Modelos_CAP.pdf)
-- PDF: [Introducao ao Compilador CDS](./10.03_Introducao_ao_Compilador_CDS.pdf)
 - Infográfico: [CDS Compiler Mastery](./10.03_CDS_Compiler_Mastery.png)
 - Infográfico: [Compiler Deep Dive](./10.03_Compiler_Deep_Dive.png)
 

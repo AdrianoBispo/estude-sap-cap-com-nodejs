@@ -23,11 +23,6 @@ Como escrever lógica de negócio com handlers, e o que muda entre as fases befo
 2. **As três fases:** Cada fase tem um papel: **validar** antes, **atender** durante e **enriquecer** depois.
 3. **Eventos e erros:** Além de requisições, serviços emitem **eventos assíncronos** e têm um ponto central para tratar erros.
 
-## Material complementar
-
-- PDF: [Services Dominando a Dualidade](./03.02_Services_Dominando_a_Dualidade.pdf)
-- Infográfico: [Services Dominando a Dualidade](./03.02_Services_Dominando_a_Dualidade.png)
-
 ---
 
 [Voltar ao Módulo 03](../README.md) · Próxima aula: [03.03 Requisições, erros e cds.context](../../modulo-03/03.03%20-%20Requisi%C3%A7%C3%B5es,%20erros%20e%20cds.context/README.md)

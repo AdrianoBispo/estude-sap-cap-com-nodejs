@@ -26,9 +26,6 @@ Como escrever um modelo que captura a intenção: chaves, relacionamentos, docum
 
 ## Material complementar
 
-- PDF: [CDL Modelagem Inteligente](./02.01_CDL_Modelagem_Inteligente.pdf)
-- PDF: [Modelagem com Intencao](./02.01_Modelagem_com_Intencao.pdf)
-- PDF: [SAP CDS Projeto e Realidade](./02.01_SAP_CDS_Projeto_e_Realidade.pdf)
 - Infográfico: [CDL Modelagem Inteligente](./02.01_CDL_Modelagem_Inteligente.png)
 - Infográfico: [Modelagem com Intencao](./02.01_Modelagem_com_Intencao.png)
 - Infográfico: [SAP CDS Projeto e Realidade](./02.01_SAP_CDS_Projeto_e_Realidade.png)

@@ -25,8 +25,6 @@ Como declarar, emitir e receber eventos, levar mensagens entre processos e garan
 
 ## Material complementar
 
-- PDF: [Events Zero Code Microservices](./06.03_Events_Zero_Code_Microservices.pdf)
-- PDF: [Nodejs Mensageria Assincrona](./06.03_Nodejs_Mensageria_Assincrona.pdf)
 - Infográfico: [Events Zero Code Microservices](./06.03_Events_Zero_Code_Microservices.png)
 - Infográfico: [Nodejs Mensageria Assincrona](./06.03_Nodejs_Mensageria_Assincrona.png)
 

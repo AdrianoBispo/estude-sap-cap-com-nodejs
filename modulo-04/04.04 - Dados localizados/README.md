@@ -26,7 +26,6 @@ Como um único modificador traz traduções ao modelo: textos gerados, leitura p
 
 ## Material complementar
 
-- PDF: [Localizacao Global](./04.04_Localizacao_Global.pdf)
 - Infográfico: [Localizacao Global](./04.04_Localizacao_Global.png)
 - Infográfico: [Localized Data Deep Dive](./04.04_Localized_Data_Deep_Dive.png)
 

@@ -23,11 +23,6 @@ O objeto req em detalhe, as formas de recusar uma requisição e como o contexto
 2. **Respostas e erros:** Devolva um valor para responder. Use `reject` para parar **já** e `error` para reunir vários problemas.
 3. **cds.context e fim da requisição:** O contexto acompanha todo o processamento assíncrono, e você pode reagir ao **fim da transação**.
 
-## Material complementar
-
-- PDF: [Fluxo Requisicoes Sync Async](./03.03_Fluxo_Requisicoes_Sync_Async.pdf)
-- Infográfico: [Fluxo Requisicoes Sync Async](./03.03_Fluxo_Requisicoes_Sync_Async.png)
-
 ---
 
 [Voltar ao Módulo 03](../README.md) · Próxima aula: [03.04 Validações, ações e fluxos de status](../../modulo-03/03.04%20-%20Valida%C3%A7%C3%B5es,%20a%C3%A7%C3%B5es%20e%20fluxos%20de%20status/README.md)

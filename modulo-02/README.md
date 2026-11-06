@@ -14,6 +14,6 @@ A linguagem CDL, os tipos, os aspectos e as decisões de modelo que definem a ap
 | **02.04** | [**Dados temporais**](./02.04%20-%20Dados%20temporais/README.md) | Validade, as-of-now, time travel e períodos. |
 | **02.05** | [**Modelagem para performance**](./02.05%20-%20Modelagem%20para%20performance/README.md) | UNION, JOIN, campos calculados e legado. |
 
-Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, os PDFs e infográficos complementares.
+Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, infográficos complementares.
 
 [Voltar ao início do curso](../README.md)

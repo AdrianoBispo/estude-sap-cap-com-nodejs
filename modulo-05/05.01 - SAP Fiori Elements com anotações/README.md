@@ -24,11 +24,6 @@ Como as anotações viram telas: previews, organização dos arquivos, List Repo
 3. **Anotações comuns:** Prefira anotações **agnósticas de protocolo** em modelos e serviços. O CAP as traduz para OData.
 4. **Ajudas de valor e árvores:** Atalhos do CAP adicionam listas de valores e visualizações hierárquicas com **uma anotação**.
 
-## Material complementar
-
-- PDF: [Fiori Elements Metadados](./05.01_Fiori_Elements_Metadados.pdf)
-- Infográfico: [Fiori Elements Metadados](./05.01_Fiori_Elements_Metadados.png)
-
 ---
 
 [Voltar ao Módulo 05](../README.md) · Próxima aula: [05.02 Rascunhos (draft)](../../modulo-05/05.02%20-%20Rascunhos%20%28draft%29/README.md)

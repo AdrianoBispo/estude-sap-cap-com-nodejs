@@ -23,11 +23,6 @@ Os blocos do framework, o papel dos modelos CDS e a ideia de que quase tudo já 
 2. **Serviços e eventos:** Todo elemento ativo é um **serviço**, e tudo o que acontece em runtime é disparado por **eventos**.
 3. **O que já vem pronto:** Os runtimes reúnem implementações genéricas para **tarefas recorrentes**, destiladas de aplicações reais da SAP.
 
-## Material complementar
-
-- PDF: [Jornada do Construtor](./01.01_Jornada_do_Construtor.pdf)
-- Infográfico: [Jornada do Construtor](./01.01_Jornada_do_Construtor.png)
-
 ---
 
 [Voltar ao Módulo 01](../README.md) · Próxima aula: [01.02 Sua primeira aplicação: a Bookshop](../../modulo-01/01.02%20-%20Sua%20primeira%20aplica%C3%A7%C3%A3o%20-%20a%20Bookshop/README.md)

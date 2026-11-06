@@ -23,11 +23,6 @@ Como construir, executar e compor consultas em JavaScript, com segurança e sem 
 2. **Executando:** Criar uma consulta **não a executa**. Ela só roda quando é aguardada ou enviada a um serviço.
 3. **Evitando SQL injection:** A API já protege por padrão. O risco aparece só quando **você concatena** entrada do usuário.
 
-## Material complementar
-
-- PDF: [Dominando Queries Nodejs](./04.02_Dominando_Queries_Nodejs.pdf)
-- Infográfico: [Dominando Queries Nodejs](./04.02_Dominando_Queries_Nodejs.png)
-
 ---
 
 [Voltar ao Módulo 04](../README.md) · Próxima aula: [04.03 Bancos de dados e DatabaseService](../../modulo-04/04.03%20-%20Bancos%20de%20dados%20e%20DatabaseService/README.md)

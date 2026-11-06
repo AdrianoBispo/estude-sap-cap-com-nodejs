@@ -15,6 +15,6 @@ Aprofundamento: as notações, o compilador, a reflexão e o runtime por baixo d
 | **10.05** | [**Bootstrap do servidor e cds.serve**](./10.05%20-%20Bootstrap%20do%20servidor%20e%20cds.serve/README.md) | cds serve, server.js, eventos e middlewares. |
 | **10.06** | [**A fachada cds e cds.utils**](./10.06%20-%20A%20fachada%20cds%20e%20cds.utils/README.md) | O objeto cds, cds repl e utilitários. |
 
-Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, os PDFs e infográficos complementares.
+Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, infográficos complementares.
 
 [Voltar ao início do curso](../README.md)

@@ -26,7 +26,6 @@ Como o CAP troca de banco sem mudar o código: SQLite, PostgreSQL, SAP HANA, dad
 
 ## Material complementar
 
-- PDF: [DatabaseService Masterclass](./04.03_DatabaseService_Masterclass.pdf)
 - Infográfico: [Banco de Dados Enterprise](./04.03_Banco_de_Dados_Enterprise.png)
 - Infográfico: [DatabaseService Masterclass](./04.03_DatabaseService_Masterclass.png)
 

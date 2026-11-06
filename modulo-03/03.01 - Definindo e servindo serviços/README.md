@@ -25,7 +25,6 @@ Como desenhar serviços por caso de uso e o que o provedor genérico faz sem nen
 
 ## Material complementar
 
-- PDF: [ApplicationService Mastery](./03.01_ApplicationService_Mastery.pdf)
 - Infográfico: [ApplicationService Mastery](./03.01_ApplicationService_Mastery.png)
 - Infográfico: [Jornada do Desenvolvedor](./03.01_Jornada_do_Desenvolvedor.png)
 

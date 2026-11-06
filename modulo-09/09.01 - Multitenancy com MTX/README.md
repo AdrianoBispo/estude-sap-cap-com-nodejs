@@ -24,11 +24,6 @@ Como servir vários clientes com uma implantação, isolando os dados: sidecar, 
 3. **Na nuvem:** O deploy é o mesmo, com o acréscimo da subscrição pelo **SAP BTP**.
 4. **Personalizando o SaaS:** Serviços MTX são **serviços CAP comuns**: aceitam handlers, e dependências são declaradas em configuração.
 
-## Material complementar
-
-- PDF: [Multitenancy Jornada SaaS](./09.01_Multitenancy_Jornada_SaaS.pdf)
-- Infográfico: [Multitenancy Jornada SaaS](./09.01_Multitenancy_Jornada_SaaS.png)
-
 ---
 
 [Voltar ao Módulo 09](../README.md) · Próxima aula: [09.02 Extensibilidade e feature toggles](../../modulo-09/09.02%20-%20Extensibilidade%20e%20feature%20toggles/README.md)

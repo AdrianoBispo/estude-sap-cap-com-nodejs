@@ -27,8 +27,6 @@ Como trazer APIs externas para o modelo, desenvolver com mocks, consultar e comb
 
 ## Material complementar
 
-- PDF: [Dominando a Conexão de Serviços com CAP](./06.01_Dominando_a_Conex%C3%A3o_de_Servi%C3%A7os_com_CAP.pdf)
-- PDF: [Remote Service Masterclass](./06.01_Remote_Service_Masterclass.pdf)
 - Infográfico: [Dominando a Conexão de Serviços com CAP](./06.01_Dominando_a_Conex%C3%A3o_de_Servi%C3%A7os_com_CAP.png)
 - Infográfico: [Remote Service Masterclass](./06.01_Remote_Service_Masterclass.png)
 

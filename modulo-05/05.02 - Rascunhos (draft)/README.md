@@ -24,11 +24,6 @@ Como permitir edição segura, com progresso salvo no servidor, usando uma anota
 3. **Código nos rascunhos:** Eventos próprios permitem preparar, validar e reagir em cada etapa do ciclo.
 4. **Regras de convivência:** Bloqueios e limpeza automática evitam conflitos e **rascunhos esquecidos**.
 
-## Material complementar
-
-- PDF: [Nodejs Rascunhos Guia](./05.02_Nodejs_Rascunhos_Guia.pdf)
-- Infográfico: [Nodejs Rascunhos Guia](./05.02_Nodejs_Rascunhos_Guia.png)
-
 ---
 
 [Voltar ao Módulo 05](../README.md) · Próxima aula: [06.01 Consumindo serviços remotos](../../modulo-06/06.01%20-%20Consumindo%20servi%C3%A7os%20remotos/README.md)

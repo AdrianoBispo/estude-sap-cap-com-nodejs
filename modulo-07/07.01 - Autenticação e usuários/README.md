@@ -23,11 +23,6 @@ Como o CAP identifica quem chama a aplicação: o usuário CAP, as estratégias 
 2. **Desenvolvimento:** Sem serviço de identidade, usuários simulados permitem **testar papéis** na sua máquina.
 3. **Produção:** Na nuvem, a estratégia padrão é `jwt`, e **todos os endpoints** exigem autenticação.
 
-## Material complementar
-
-- PDF: [Authentication Developers Path](./07.01_Authentication_Developers_Path.pdf)
-- Infográfico: [Authentication Developers Path](./07.01_Authentication_Developers_Path.png)
-
 ---
 
 [Voltar ao Módulo 07](../README.md) · Próxima aula: [07.02 Autorização com @requires e @restrict](../../modulo-07/07.02%20-%20Autoriza%C3%A7%C3%A3o%20com%20@requires%20e%20@restrict/README.md)

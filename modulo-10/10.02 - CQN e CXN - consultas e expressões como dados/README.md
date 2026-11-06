@@ -24,8 +24,6 @@ Como consultas e expressões viram objetos simples: a estrutura de SELECT, INSER
 
 ## Material complementar
 
-- PDF: [CQN Desconstrucao Arquitetural](./10.02_CQN_Desconstrucao_Arquitetural.pdf)
-- PDF: [CXN The CDS Blueprint](./10.02_CXN_The_CDS_Blueprint.pdf)
 - Infográfico: [CQN Desconstrucao Arquitetural](./10.02_CQN_Desconstrucao_Arquitetural.png)
 - Infográfico: [CXN The CDS Blueprint](./10.02_CXN_The_CDS_Blueprint.png)
 

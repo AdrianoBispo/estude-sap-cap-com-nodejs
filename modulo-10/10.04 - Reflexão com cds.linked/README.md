@@ -24,11 +24,6 @@ Como navegar pelo modelo em tempo de execução, com definições ligadas, itera
 3. **As definições ligadas:** Cada definição ganha **propriedades de conveniência**, conforme seu tipo.
 4. **O sistema de tipos:** Todas as definições são instâncias de um **conjunto de classes**, que podem ser ampliadas.
 
-## Material complementar
-
-- PDF: [Dominando Reflexao de Modelos](./10.04_Dominando_Reflexao_de_Modelos.pdf)
-- Infográfico: [Modelo Vivo Reflexao](./10.04_Modelo_Vivo_Reflexao.png)
-
 ---
 
 [Voltar ao Módulo 10](../README.md) · Próxima aula: [10.05 Bootstrap do servidor e cds.serve](../../modulo-10/10.05%20-%20Bootstrap%20do%20servidor%20e%20cds.serve/README.md)

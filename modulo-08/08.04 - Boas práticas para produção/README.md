@@ -24,11 +24,6 @@ Recomendações oficiais para Node.js: dependências, segurança HTTP, tratament
 3. **Erros:** Há dois tipos de erro: os de **programação**, que se corrigem, e os de **operação**, que se tratam.
 4. **Datas e números:** Pequenos cuidados evitam **perda de precisão** e divergências de horário.
 
-## Material complementar
-
-- PDF: [Boas Praticas Nodejs](./08.04_Boas_Praticas_Nodejs.pdf)
-- Infográfico: [Boas Praticas Nodejs](./08.04_Boas_Praticas_Nodejs.png)
-
 ---
 
 [Voltar ao Módulo 08](../README.md) · Próxima aula: [09.01 Multitenancy com MTX](../../modulo-09/09.01%20-%20Multitenancy%20com%20MTX/README.md)

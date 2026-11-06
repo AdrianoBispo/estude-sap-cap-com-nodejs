@@ -24,11 +24,6 @@ As decisões de modelo que mais pesam na performance: UNION, JOIN, campos calcul
 3. **Campos calculados:** Operações sobre campos calculados **não usam índices**: geram leitura completa da tabela.
 4. **Relações e legado:** Decidir entre composição e associação também afeta performance, e o **legado** não precisa ser copiado.
 
-## Material complementar
-
-- PDF: [Performance Modeling](./02.05_Performance_Modeling.pdf)
-- Infográfico: [Performance Modeling](./02.05_Performance_Modeling.png)
-
 ---
 
 [Voltar ao Módulo 02](../README.md) · Próxima aula: [03.01 Definindo e servindo serviços](../../modulo-03/03.01%20-%20Definindo%20e%20servindo%20servi%C3%A7os/README.md)

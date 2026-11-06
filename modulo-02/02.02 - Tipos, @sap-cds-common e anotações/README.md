@@ -23,11 +23,6 @@ Os tipos nativos do CDS, os modelos prontos de @sap/cds/common e as anotações 
 2. **@sap/cds/common:** Um modelo enxuto, sem runtime especial, com **práticas recolhidas de aplicações reais**.
 3. **Anotações comuns:** As anotações ligam **comportamento** ao modelo, sem misturar código de implementação.
 
-## Material complementar
-
-- PDF: [Dominando SAP CAP CDS](./02.02_Dominando_SAP_CAP_CDS.pdf)
-- Infográfico: [Dominando SAP CAP CDS](./02.02_Dominando_SAP_CAP_CDS.png)
-
 ---
 
 [Voltar ao Módulo 02](../README.md) · Próxima aula: [02.03 Aspectos e separação de responsabilidades](../../modulo-02/02.03%20-%20Aspectos%20e%20separa%C3%A7%C3%A3o%20de%20responsabilidades/README.md)

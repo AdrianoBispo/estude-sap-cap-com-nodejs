@@ -13,6 +13,6 @@ Da suíte de testes à produção: logs, build, Cloud Foundry, Kyma, CI/CD e boa
 | **08.03** | [**Deploy: Cloud Foundry, Kyma e CI/CD**](./08.03%20-%20Deploy%20-%20Cloud%20Foundry,%20Kyma%20e%20CI-CD/README.md) | cds build, cds up, MTA, Helm e pipelines. |
 | **08.04** | [**Boas práticas para produção**](./08.04%20-%20Boas%20pr%C3%A1ticas%20para%20produ%C3%A7%C3%A3o/README.md) | Dependências, erros, segurança e timestamps. |
 
-Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, os PDFs e infográficos complementares.
+Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, infográficos complementares.
 
 [Voltar ao início do curso](../README.md)

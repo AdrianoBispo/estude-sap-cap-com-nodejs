@@ -24,11 +24,6 @@ De onde vêm as configurações, quem ganha quando elas conflitam e como usar pe
 3. **Perfis:** Um único arquivo descreve **vários ambientes**. O perfil ativo decide quais blocos valem.
 4. **Serviços e opções da aplicação:** Tudo o que a aplicação consome é declarado em `cds.requires`. A mesma máquina serve para suas próprias opções.
 
-## Material complementar
-
-- PDF: [Desvendando cds env](./01.03_Desvendando_cds_env.pdf)
-- Infográfico: [Desvendando cds env](./01.03_Desvendando_cds_env.png)
-
 ---
 
 [Voltar ao Módulo 01](../README.md) · Próxima aula: [02.01 Entidades, associações e composições](../../modulo-02/02.01%20-%20Entidades,%20associa%C3%A7%C3%B5es%20e%20composi%C3%A7%C3%B5es/README.md)

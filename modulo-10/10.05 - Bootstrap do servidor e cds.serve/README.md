@@ -26,8 +26,6 @@ O que acontece do comando cds serve até a primeira requisição: bootstrap, eve
 
 ## Material complementar
 
-- PDF: [Anatomia de um Servico](./10.05_Anatomia_de_um_Servico.pdf)
-- PDF: [Nodejs Server Mastery](./10.05_Nodejs_Server_Mastery.pdf)
 - Infográfico: [Anatomia de um Servico](./10.05_Anatomia_de_um_Servico.png)
 - Infográfico: [Nodejs Server Mastery](./10.05_Nodejs_Server_Mastery.png)
 

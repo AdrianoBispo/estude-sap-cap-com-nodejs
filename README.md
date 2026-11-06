@@ -29,8 +29,7 @@ Cada pasta de aula traz:
 
 1. **Slides (`.pptx`):** o material principal, no Design System SAP Horizon, dividido em seções e com um resumo no último slide. As anotações do apresentador de cada slide apontam para a referência oficial.
 2. **README:** objetivos, seções da aula e links para o Capire.
-3. **PDFs complementares:** outra leitura do mesmo tema, quando existe.
-4. **Infográficos:** resumo visual para consulta rápida.
+3. **Infográficos:** resumo visual para consulta rápida.
 
 ## Organização e Nomenclatura dos Arquivos
 
@@ -76,4 +75,4 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 ---
 
-_Os slides foram escritos a partir da [documentação oficial do CAP (Capire)](https://cap.cloud.sap/docs/). Os PDFs complementares e os infográficos foram gerados pelo Notebook LM com base na mesma documentação._
+_Os slides foram escritos a partir da [documentação oficial do CAP (Capire)](https://cap.cloud.sap/docs/). Os infográficos foram gerados pelo Notebook LM com base na mesma documentação._

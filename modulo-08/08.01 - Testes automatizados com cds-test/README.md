@@ -23,11 +23,6 @@ Como testar serviços CAP de ponta a ponta com cds.test: servidor real, HTTP, us
 2. **Testando serviços:** Teste pela **API HTTP**, ou chame o serviço direto no código quando for testar a lógica interna.
 3. **Boas práticas:** Testes resistentes verificam **apenas o que importa** e se mantêm independentes do runner.
 
-## Material complementar
-
-- PDF: [Dominando Testes Nodejs](./08.01_Dominando_Testes_Nodejs.pdf)
-- Infográfico: [Dominando Testes Nodejs](./08.01_Dominando_Testes_Nodejs.png)
-
 ---
 
 [Voltar ao Módulo 08](../README.md) · Próxima aula: [08.02 Logging e observabilidade](../../modulo-08/08.02%20-%20Logging%20e%20observabilidade/README.md)

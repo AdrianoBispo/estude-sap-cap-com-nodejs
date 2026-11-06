@@ -23,11 +23,6 @@ Por dentro da notação que representa todo modelo CDS: anatomia, definições, 
 2. **Entidades e relações:** Do `.cds` ao CSN: compilamos um modelo real para ver como cada conceito é representado.
 3. **Serviços e extensões:** Serviços e ações são definições como outras. Extensões ficam guardadas até serem aplicadas.
 
-## Material complementar
-
-- PDF: [CSN Anatomia dos Modelos](./10.01_CSN_Anatomia_dos_Modelos.pdf)
-- Infográfico: [CSN Anatomia dos Modelos](./10.01_CSN_Anatomia_dos_Modelos.png)
-
 ---
 
 [Voltar ao Módulo 10](../README.md) · Próxima aula: [10.02 CQN e CXN: consultas e expressões como dados](../../modulo-10/10.02%20-%20CQN%20e%20CXN%20-%20consultas%20e%20express%C3%B5es%20como%20dados/README.md)

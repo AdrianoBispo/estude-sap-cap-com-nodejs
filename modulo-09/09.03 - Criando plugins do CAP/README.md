@@ -24,11 +24,6 @@ Como criar extensões reutilizáveis que se ativam sozinhas, com configuração 
 3. **Schemas de configuração:** Um schema (beta) descreve as opções do plugin e dá **autocompletar** a quem usa.
 4. **O ecossistema:** Antes de escrever um plugin, veja se **já existe** um para o seu caso.
 
-## Material complementar
-
-- PDF: [Construindo Extensoes Modulares](./09.03_Construindo_Extensoes_Modulares.pdf)
-- Infográfico: [Construindo Extensoes Modulares](./09.03_Construindo_Extensoes_Modulares.png)
-
 ---
 
 [Voltar ao Módulo 09](../README.md) · Próxima aula: [10.01 CSN: o modelo em JSON](../../modulo-10/10.01%20-%20CSN%20-%20o%20modelo%20em%20JSON/README.md)

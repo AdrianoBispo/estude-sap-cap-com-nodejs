@@ -23,11 +23,6 @@ Como anotar dados pessoais uma vez e obter audit log, gestão de dados pessoais 
 2. **Audit logging:** Com o modelo anotado, um **plugin** registra as operações sobre dados pessoais automaticamente.
 3. **Gestão de dados pessoais:** Os mesmos metadados apoiam os direitos de **acesso** e de **esquecimento**.
 
-## Material complementar
-
-- PDF: [Privacidade de Dados](./07.03_Privacidade_de_Dados.pdf)
-- Infográfico: [Privacidade de Dados](./07.03_Privacidade_de_Dados.png)
-
 ---
 
 [Voltar ao Módulo 07](../README.md) · Próxima aula: [08.01 Testes automatizados com cds-test](../../modulo-08/08.01%20-%20Testes%20automatizados%20com%20cds-test/README.md)

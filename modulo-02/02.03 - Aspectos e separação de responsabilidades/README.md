@@ -23,11 +23,6 @@ Como manter o modelo central limpo e compor comportamentos sem hierarquias de he
 2. **Aspectos de reuso:** Na herança simples, tudo acaba em **uma classe base enorme**. Aspectos deixam cada um escolher o que usar.
 3. **Adaptar o que é reutilizado:** Um pacote de terceiros quase serve? **Estenda-o** sem alterar uma linha do original.
 
-## Material complementar
-
-- PDF: [Modelagem de Aspectos](./02.03_Modelagem_de_Aspectos.pdf)
-- Infográfico: [Modelagem de Aspectos](./02.03_Modelagem_de_Aspectos.png)
-
 ---
 
 [Voltar ao Módulo 02](../README.md) · Próxima aula: [02.04 Dados temporais](../../modulo-02/02.04%20-%20Dados%20temporais/README.md)

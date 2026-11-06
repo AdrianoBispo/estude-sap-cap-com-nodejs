@@ -24,11 +24,6 @@ Como usar cds.log para ter logs úteis no desenvolvimento e estruturados em prod
 3. **Em produção:** O formato **JSON** é o padrão em produção, para análise em painéis.
 4. **Correlação:** Um **ID de correlação** liga os registros de uma requisição, mesmo entre aplicações diferentes.
 
-## Material complementar
-
-- PDF: [Logging Dev Producao](./08.02_Logging_Dev_Producao.pdf)
-- Infográfico: [Logging Dev Producao](./08.02_Logging_Dev_Producao.png)
-
 ---
 
 [Voltar ao Módulo 08](../README.md) · Próxima aula: [08.03 Deploy: Cloud Foundry, Kyma e CI/CD](../../modulo-08/08.03%20-%20Deploy%20-%20Cloud%20Foundry,%20Kyma%20e%20CI-CD/README.md)

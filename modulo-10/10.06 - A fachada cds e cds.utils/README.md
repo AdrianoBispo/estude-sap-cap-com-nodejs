@@ -24,8 +24,6 @@ Um passeio pelo objeto cds, o ponto de entrada de todas as APIs, e pelos utilit�
 
 ## Material complementar
 
-- PDF: [Objeto cds Guia Completo](./10.06_Objeto_cds_Guia_Completo.pdf)
-- PDF: [cds utils Toolbox](./10.06_cds_utils_Toolbox.pdf)
 - Infográfico: [Objeto cds Guia Completo](./10.06_Objeto_cds_Guia_Completo.png)
 - Infográfico: [cds utils Toolbox](./10.06_cds_utils_Toolbox.png)
 

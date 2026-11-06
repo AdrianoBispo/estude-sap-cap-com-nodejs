@@ -24,11 +24,6 @@ O que a CQL acrescenta ao SQL: projeções pós-fixadas, caminhos por associaç�
 3. **Path expressions:** Caminhos substituem joins escritos à mão: **navegue** pelo modelo em qualquer cláusula.
 4. **Filtros e exists:** Colchetes restringem o caminho, e `exists` testa se algo do conjunto relacionado atende à condição.
 
-## Material complementar
-
-- PDF: [CQL Evolucao SQL](./04.01_CQL_Evolucao_SQL.pdf)
-- Infográfico: [CQL Evolucao SQL](./04.01_CQL_Evolucao_SQL.png)
-
 ---
 
 [Voltar ao Módulo 04](../README.md) · Próxima aula: [04.02 Consultas no Node.js com cds.ql](../../modulo-04/04.02%20-%20Consultas%20no%20Node.js%20com%20cds.ql/README.md)

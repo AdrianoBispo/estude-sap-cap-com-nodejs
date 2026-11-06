@@ -23,11 +23,6 @@ As formas de adaptar uma aplicação CAP: extensões de clientes, recursos ligad
 2. **Feature toggles:** O provedor entrega **melhorias prontas** como modelos CDS, que são ativadas por tenant, usuário ou requisição.
 3. **Reuso e composição:** Pacotes npm trazem **modelos, código, dados e UIs** para novos projetos.
 
-## Material complementar
-
-- PDF: [Extensibility Toolkit](./09.02_Extensibility_Toolkit.pdf)
-- Infográfico: [Extensibility Toolkit](./09.02_Extensibility_Toolkit.png)
-
 ---
 
 [Voltar ao Módulo 09](../README.md) · Próxima aula: [09.03 Criando plugins do CAP](../../modulo-09/09.03%20-%20Criando%20plugins%20do%20CAP/README.md)

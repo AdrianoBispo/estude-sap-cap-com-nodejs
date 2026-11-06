@@ -24,11 +24,6 @@ Como traduzir rótulos e mensagens: pacotes de texto, ordem de resolução e a A
 3. **Mensagens de runtime:** Use chaves nas mensagens de erro, e o runtime faz a tradução para o idioma do usuário.
 4. **API cds.i18n:** Use os pacotes diretamente no código quando precisar de um texto traduzido **fora** dos fluxos automáticos.
 
-## Material complementar
-
-- PDF: [Mergulho Profundo cdsi18n](./04.05_Mergulho_Profundo_cdsi18n.pdf)
-- Infográfico: [Mergulho Profundo cdsi18n](./04.05_Mergulho_Profundo_cdsi18n.png)
-
 ---
 
 [Voltar ao Módulo 04](../README.md) · Próxima aula: [05.01 SAP Fiori Elements com anotações](../../modulo-05/05.01%20-%20SAP%20Fiori%20Elements%20com%20anota%C3%A7%C3%B5es/README.md)

@@ -24,11 +24,6 @@ Como o runtime cuida das transações sozinho e quando você precisa assumir o c
 3. **Contexto:** Uma transação nova demarca outro limite ACID, mas **herda** o contexto atual, salvo o que você sobrescrever.
 4. **Tarefas em segundo plano:** Algumas tarefas devem rodar **fora** da requisição, com outro usuário ou repetidamente.
 
-## Material complementar
-
-- PDF: [Transacoes Autopilot Manual](./03.05_Transacoes_Autopilot_Manual.pdf)
-- Infográfico: [Transacoes Autopilot Manual](./03.05_Transacoes_Autopilot_Manual.png)
-
 ---
 
 [Voltar ao Módulo 03](../README.md) · Próxima aula: [03.06 TypeScript no CAP](../../modulo-03/03.06%20-%20TypeScript%20no%20CAP/README.md)

@@ -15,6 +15,6 @@ Do contrato do serviço às regras de negócio em Node.js, com handlers, erros, 
 | **03.05** | [**Transações com cds.tx**](./03.05%20-%20Transa%C3%A7%C3%B5es%20com%20cds.tx/README.md) | Gestão automática, cds.tx e cds.spawn. |
 | **03.06** | [**TypeScript no CAP**](./03.06%20-%20TypeScript%20no%20CAP/README.md) | Setup, cds-typer, testes e build. |
 
-Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, os PDFs e infográficos complementares.
+Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, infográficos complementares.
 
 [Voltar ao início do curso](../README.md)

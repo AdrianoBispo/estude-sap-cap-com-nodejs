@@ -14,6 +14,6 @@ CQL, cds.ql, bancos de dados e localização: como os dados entram, saem e mudam
 | **04.04** | [**Dados localizados**](./04.04%20-%20Dados%20localizados/README.md) | localized, .texts, views e dados iniciais. |
 | **04.05** | [**Internacionalização com cds.i18n**](./04.05%20-%20Internacionaliza%C3%A7%C3%A3o%20com%20cds.i18n/README.md) | Labels, mensagens e bundles de texto. |
 
-Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, os PDFs e infográficos complementares.
+Cada aula tem os slides no padrão SAP Horizon, as referências oficiais do Capire e, quando existem, infográficos complementares.
 
 [Voltar ao início do curso](../README.md)

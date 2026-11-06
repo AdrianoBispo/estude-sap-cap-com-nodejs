@@ -24,11 +24,6 @@ Como o nome de um serviço vira uma conexão real: cds.connect, cds.requires e b
 3. **Service bindings:** O binding preenche `credentials`. Por isso, **segredos não entram** em `package.json` nem em `.cdsrc.json`.
 4. **Destinations:** Destinations nomeadas ficam no **SAP BTP**. Sem elas, a URL pode ser definida na própria aplicação.
 
-## Material complementar
-
-- PDF: [Conectando Servicos Codigo Nuvem](./06.02_Conectando_Servicos_Codigo_Nuvem.pdf)
-- Infográfico: [Conectando Servicos Codigo Nuvem](./06.02_Conectando_Servicos_Codigo_Nuvem.png)
-
 ---
 
 [Voltar ao Módulo 06](../README.md) · Próxima aula: [06.03 Eventos e mensageria](../../modulo-06/06.03%20-%20Eventos%20e%20mensageria/README.md)

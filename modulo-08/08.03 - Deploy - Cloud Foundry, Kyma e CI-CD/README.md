@@ -23,11 +23,6 @@ Como levar a aplicação à nuvem: preparar serviços, gerar artefatos, implanta
 2. **Build e deploy:** `cds up` faz o build e a implantação em um só comando, automatizando o que seria feito à mão.
 3. **CI/CD e operação:** Depois do primeiro deploy manual, **automatize** tudo e monitore a aplicação em execução.
 
-## Material complementar
-
-- PDF: [Do cds watch a Producao](./08.03_Do_cds_watch_a_Producao.pdf)
-- Infográfico: [Do cds watch a Producao](./08.03_Do_cds_watch_a_Producao.png)
-
 ---
 
 [Voltar ao Módulo 08](../README.md) · Próxima aula: [08.04 Boas práticas para produção](../../modulo-08/08.04%20-%20Boas%20pr%C3%A1ticas%20para%20produ%C3%A7%C3%A3o/README.md)
