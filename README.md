@@ -1,27 +1,32 @@
 # Guia de Estudos SAP CAP com Node.js
 
-![Infografico - Guia Rapido de Desenvolvimento SAP CAP (Node.js)](./Infografico%20-%20Guia%20de%20Desenvolvimento%20SAP%20CAP%20com%20Nodejs.png)
+![Infografico - Guia Rapido de Desenvolvimento SAP CAP (Node.js)](./Infografico_Guia_de_Desenvolvimento_SAP_CAP_com_Nodejs.png)
 
 > **Este repositório é um curso completo para desenvolvedores que desejam aprender e dominar o SAP Cloud Application Programming Model (CAP) com Node.js. Ele parte da primeira aplicação e segue até a produção, com slides guiados, infográficos e referências à documentação oficial.**
 
 ## Estrutura do Curso
 
-São 10 módulos e 40 aulas, na ordem recomendada de estudo. Os módulos 1 a 8 seguem o caminho de uma aplicação real, do projeto vazio à produção. O módulo 9 trata de SaaS e extensões, e o módulo 10 é um aprofundamento nos internos do CAP, para estudar depois que os conceitos estiverem firmes.
+São 6 módulos e 37 aulas, na ordem recomendada de estudo. Os módulos 1 a 4 seguem o caminho de uma aplicação real, do projeto vazio à produção, com interfaces Fiori e não Fiori no módulo 3. O módulo 5 trata da IA nativa do CAP, com MCP, agentes e embeddings, e o módulo 6 aprofunda SaaS, extensões e os internos do framework. As aulas seguem o CAP 10 (`@sap/cds` 10.2), com Node.js 22 ou superior e projetos em ESM.
 
 | Módulo | Aulas | Descrição |
 | :--- | :---: | :--- |
-| **[Módulo 01: Primeiros Passos com CAP](./modulo-01/README.md)** | 3 | O que é o CAP, como ele pensa e como criar, rodar e configurar a primeira aplicação. |
-| **[Módulo 02: Modelagem de Domínio com CDS](./modulo-02/README.md)** | 5 | A linguagem CDL, os tipos, os aspectos e as decisões de modelo que definem a aplicação. |
-| **[Módulo 03: Serviços e Lógica de Negócio](./modulo-03/README.md)** | 6 | Do contrato do serviço às regras de negócio em Node.js, com handlers, erros, validações e transações. |
-| **[Módulo 04: Consultas e Persistência](./modulo-04/README.md)** | 5 | CQL, cds.ql, bancos de dados e localização: como os dados entram, saem e mudam de idioma. |
-| **[Módulo 05: Interfaces com SAP Fiori](./modulo-05/README.md)** | 2 | Como as anotações viram telas e como o draft dá ao usuário uma edição segura. |
-| **[Módulo 06: Integração e Eventos](./modulo-06/README.md)** | 3 | Como conectar a aplicação a sistemas externos e desacoplar serviços com mensageria. |
-| **[Módulo 07: Segurança e Privacidade](./modulo-07/README.md)** | 3 | Quem é o usuário, o que ele pode fazer e como proteger dados pessoais. |
-| **[Módulo 08: Testes, Deploy e Operação](./modulo-08/README.md)** | 4 | Da suíte de testes à produção: logs, build, Cloud Foundry, Kyma, CI/CD e boas práticas. |
-| **[Módulo 09: SaaS e Extensibilidade](./modulo-09/README.md)** | 3 | Aplicações multitenant, extensões por cliente, feature toggles e plugins reutilizáveis. |
-| **[Módulo 10: Por Dentro do CAP](./modulo-10/README.md)** | 6 | Aprofundamento: as notações, o compilador, a reflexão e o runtime por baixo das APIs. |
+| **[Módulo 01: Fundamentos](./modulo-01-fundamentos/README.md)** | 5 | O que é o CAP, a primeira aplicação, a configuração e as decisões de modelagem com CDS. |
+| **[Módulo 02: Serviços e Dados](./modulo-02-servicos-e-dados/README.md)** | 10 | Do contrato do serviço às regras de negócio, com dados, rascunhos, integrações e mensageria. |
+| **[Módulo 03: Interfaces Fiori e Web](./modulo-03-interfaces/README.md)** | 8 | Telas com SAP Fiori Elements e interfaces web com UI5 Web Components, React, Vite e Angular. |
+| **[Módulo 04: Segurança e Operação](./modulo-04-seguranca-e-operacao/README.md)** | 5 | Quem pode fazer o quê, proteção de dados pessoais, qualidade e o caminho até a produção. |
+| **[Módulo 05: IA Nativa](./modulo-05-ia-nativa/README.md)** | 4 | Desenvolver com agentes de IA e levar agentes, MCP e embeddings para dentro da aplicação. |
+| **[Módulo 06: Avançado](./modulo-06-avancado/README.md)** | 5 | SaaS, extensões, plugins e os internos do CAP: notações, compilador, reflexão e runtime. |
 
 Todos os exemplos usam a livraria (*bookshop*) da documentação oficial, para que uma aula continue de onde a anterior parou.
+
+## Aprenda Praticando - Projeto de Minha Autoria
+
+Depois das aulas, veja os conceitos em um sistema completo: o **[Pedidos de Compras - SAP CAP / Node.js](https://github.com/AdrianoBispo/sap-cap-nodejs-pedidos-de-compras-app)**, um projeto de minha autoria que cobre o processo de compra de ponta a ponta.
+
+- **Backend em CAP 10** com serviços OData V4, em duas versões equivalentes: JavaScript (ESM) e TypeScript `strict`, com tipos do `cds-typer`.
+- **Oito aplicações SAPUI5:** quatro de gestão em Fiori Elements e quatro de análise em SAPUI5 *freestyle*, reunidas em um launchpad local.
+- **Regras reais de negócio:** clientes com endereço pelo CEP, estoque, pedidos, pagamento simulado, reembolsos e importação por planilha.
+- **Testes automatizados** nas duas versões.
 
 ## Como Estudar Cada Aula
 
@@ -29,15 +34,24 @@ Cada pasta de aula traz:
 
 1. **Slides (`.pptx`):** o material principal, no Design System SAP Horizon, dividido em seções e com um resumo no último slide. As anotações do apresentador de cada slide apontam para a referência oficial.
 2. **README:** objetivos, seções da aula e links para o Capire.
-3. **Infográficos:** resumo visual para consulta rápida.
+3. **Infográfico:** resumo visual para consulta rápida, nas aulas que têm um.
 
 ## Organização e Nomenclatura dos Arquivos
 
-Para garantir a organização, a rastreabilidade e a sequência lógica de leitura dos arquivos do projeto, foi definida a seguinte **Regra de Nomenclatura Hierárquica**: **`DD.SS_Slug_Descritivo`**
+Nenhum nome de pasta ou arquivo usa espaços ou acentos, para facilitar o uso em terminais, links e URLs.
 
-1. **DD (Módulo)**: Dois dígitos representando a pasta `modulo-DD`.
-2. **SS (Aula)**: Dois dígitos representando a aula dentro do módulo.
-3. **Slug Descritivo**: O nome original ou simplificado do tópico, separado por underlines para legibilidade.
+```text
+modulo-01-fundamentos/
+  README.md
+  01-conceitos-e-primeira-aplicacao/
+    01.01_Conceitos_e_primeira_aplicacao.pptx
+    01.01_Infografico.png
+    README.md
+```
+
+1. **Módulo:** `modulo-DD-slug`, em que `DD` é o número do módulo.
+2. **Aula:** `SS-slug`, em que `SS` é o número da aula dentro do módulo.
+3. **Arquivos:** `DD.SS_Titulo_da_aula.pptx` e `DD.SS_Infografico.png`, com o mesmo número da aula.
 
 ## Como Contribuir
 
@@ -60,6 +74,13 @@ Contribuições são bem-vindas! Se você encontrar erros, tiver sugestões de m
   - [SAP Learning - Develop extensions with SAP Cloud Application Programming Model](https://learning.sap.com/courses/develop-extensions-with-sap-cloud-application-programming-model)
   - [SAP Learning - Desenvolva extensões com CAP seguindo o Guia do desenvolvedor SAP BTP](https://learning.sap.com/courses/develop-extensions-with-cap-following-the-sap-btp-developer-s-guide)
   - [SAP Learning - Desenvolvendo um aplicativo SAP Fiori Elements baseado em um serviço CAP OData V4](https://learning.sap.com/courses/developing-an-sap-fiori-elements-app-based-on-a-cap-odata-v4-service)
+
+  ### Interfaces Web
+  - [UI5 Web Components - Documentação oficial](https://ui5.github.io/webcomponents/docs/)
+  - [UI5 Web Components for React](https://github.com/UI5/webcomponents-react)
+  - [UI5 Web Components for Angular](https://sap.github.io/fundamental-ngx/)
+  - [Soluções do curso de Fiori Elements com CAP (UX405)](https://github.com/SAP-samples/fiori-elements-v4-cap-advanced)
+  - [SAP Fiori Elements Feature Showcase](https://github.com/SAP-samples/fiori-elements-feature-showcase)
 
   ### Tutoriais Oficiais da SAP
   - [Tutorial SAP - Crie um aplicativo de negócios CAP utilizando o VS Code e Nodejs](https://developers.sap.com/mission.cp-starter-extensions-cap.html)
